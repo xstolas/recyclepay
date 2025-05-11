@@ -7,14 +7,14 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-green-100 to-white text-gray-800">
       <header className="p-6 flex items-center justify-between bg-white shadow-md">
-        <h1 className="text-3xl font-bold text-green-600">RecyclePay</h1>
+        <h1 className="text-3xl font-bold text-green-600">Waste-to-Rewards</h1>
         <Button className="bg-green-500 hover:bg-green-600 text-white">Download App</Button>
       </header>
 
       <section className="text-center py-16 px-4 max-w-4xl mx-auto">
-        <h2 className="text-4xl font-bold mb-4">Earn Rewards for Recycling!</h2>
+        <h2 className="text-4xl font-bold mb-4">Waste-to-Rewards</h2>
         <p className="text-lg text-gray-600 mb-6">
-          Recycle your waste. Earn points. Get discounts. Help the planet. Everyone wins!
+          A Digital Platform Linking Recycling with Local Businesses
         </p>
         <Button className="bg-green-500 hover:bg-green-600 text-white text-lg px-6 py-3 rounded-full">
           Get Started
