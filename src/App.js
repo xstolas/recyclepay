@@ -77,7 +77,7 @@ function App() {
       </section>
 
       <section className="bg-green-100 py-16 px-6 text-center">
-        <h2 className="text-3xl font-bold mb-4">Why RecyclePay Works</h2>
+        <h2 className="text-3xl font-bold mb-4">Why Waste-to-Rewards Works</h2>
         <p className="text-lg text-gray-700 mb-6 max-w-3xl mx-auto">
           We're the first in India to connect recycling with local rewards. A win-win-win for the environment, small businesses, and everyday users.
         </p>
@@ -89,7 +89,7 @@ function App() {
       </section>
 
       <footer className="bg-white py-6 text-center text-sm text-gray-500">
-        © 2025 RecyclePay. Made with ♻️ for a cleaner tomorrow.
+        © 2025 WasteToRewards. Made with ♻️ for a cleaner tomorrow.
       </footer>
     </div>
   );
